@@ -1,4 +1,4 @@
--------------------------------------------------------------------------------------------Black Hat Web Scanner---------------------------------------------------------------------------------------------------
+--------------------------------------------Black Hat Web Scanner---------------------------------------------------
 
 --------------Overview---------------------------
 The Black Hat Web Scanner is a powerful and user-friendly graphical user interface (GUI) tool designed for web vulnerability scanning. Built using Python and the customtkinter library, this tool provides an intuitive interface for security professionals and enthusiasts to identify potential vulnerabilities in web applications. The scanner leverages the capabilities of Wapiti, a well-known web application vulnerability scanner, to perform comprehensive scans and report findings in real-time.
